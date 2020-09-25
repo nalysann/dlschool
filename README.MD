@@ -1,7 +1,7 @@
 <h1 style="text-align:center">Deep Learning School</h1>
 
 <p align="center">
- <img src="_static/logo_readme.png" width=1280>
+    <img src="_static/logo_readme.png" width=1280>
 </p>
 
 <p align="center">Официальный сайт: https://www.dlschool.org/</p>
